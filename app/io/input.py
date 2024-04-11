@@ -39,3 +39,11 @@ def input_from_file_pandas(filename):
         return text
     except FileNotFoundError:
         return "Файл не знайдено"
+
+
+def read_file_2():
+    return None
+
+
+def read_file_3():
+    return None
